@@ -4,3 +4,5 @@ the data set will be provided, in addition here is its link: https://www.kaggle.
 this mini-project was created via visual studio code as a part of assignment in my learning process.
 its provided with all markdown cells and comments necessary to understand the followed steps in details.
 hope you like it.
+# E-commerce linear regression mini-project 
+this is pretty similar to the first mini-project but with splitting the data into train, test, and validation which yields better results and also shows the output lline as an eqn.
